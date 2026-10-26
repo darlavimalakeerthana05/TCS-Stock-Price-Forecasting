@@ -107,8 +107,8 @@ The notebook downloads its data directly from Yahoo Finance, so the spreadsheet 
 ## Getting started
 
 ```bash
-git clone https://github.com/darlavimalakeerthana05/tcs-stock-price-forecasting.git
-cd tcs-stock-price-forecasting
+git clone https://github.com/darlavimalakeerthana05/TCS-Stock-Price-Forecasting.git
+cd TCS-Stock-Price-Forecasting
 
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
