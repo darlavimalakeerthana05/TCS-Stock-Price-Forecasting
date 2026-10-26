@@ -1,0 +1,16 @@
+interval,model,MAE,RMSE,R2
+daily,Vanilla LSTM,44.2924,64.8691,0.997
+daily,Naive baseline,18.4238,29.6493,0.9994
+daily,Bidirectional LSTM,38.8954,52.7921,0.998
+daily,Stacked LSTM,36.213,51.529,0.9981
+daily,GRU,25.728,38.2165,0.999
+weekly,Vanilla LSTM,86.5752,129.284,0.9877
+weekly,Naive baseline,45.7672,68.7569,0.9965
+weekly,Bidirectional LSTM,88.382,117.5991,0.9898
+weekly,Stacked LSTM,73.6045,107.6682,0.9914
+weekly,GRU,54.5307,81.4826,0.9951
+monthly,Vanilla LSTM,213.1543,295.2521,0.9208
+monthly,Naive baseline,115.1032,156.4646,0.9778
+monthly,Bidirectional LSTM,258.6347,312.1752,0.9115
+monthly,Stacked LSTM,157.9457,222.1444,0.9552
+monthly,GRU,120.9029,171.9309,0.9731
